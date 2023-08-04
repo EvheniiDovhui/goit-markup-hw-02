@@ -11,6 +11,7 @@
   --primary-letter-spacing: 0.02em;
 }
 body {
+  margin: 0;
   font-family: var(--primary-font);
   color: var(--primary-grey-color);
   font-size: var(--primary-font-size);
